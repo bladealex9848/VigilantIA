@@ -1,13 +1,13 @@
 
-# ProcesAI CGP
+# VigilantIA
 
-![Logo de ProcesAI CGP](https://raw.githubusercontent.com/bladealex9848/ProcesAI_CGP/main/logo.png)
+![Logo de VigilantIA](https://raw.githubusercontent.com/bladealex9848/VigilantIA/main/logo.png)
 
 ## Descripción
-ProcesAI CGP es una aplicación web desarrollada con Streamlit y la API de OpenAI, diseñada para proporcionar información y responder consultas relacionadas con el Código General del Proceso y la Teoría General del Proceso en Colombia. Esta herramienta es ideal para profesionales y estudiantes del derecho procesal colombiano.
+VigilantIA es una aplicación web desarrollada con Streamlit y la API de OpenAI, diseñada para proporcionar información y asistencia en temas relacionados con la Vigilancia Judicial Administrativa, basada en el artículo 101 de la Ley 270 de 1996 y el ACUERDO No. PSAA11-8716.
 
 ## Configuración
-Para configurar y ejecutar ProcesAI CGP, sigue estos pasos:
+Para configurar y ejecutar VigilantIA, sigue estos pasos:
 
 1. Clona el repositorio a tu máquina local.
 2. Instala las dependencias utilizando `pip`:
@@ -15,14 +15,13 @@ Para configurar y ejecutar ProcesAI CGP, sigue estos pasos:
    pip install -r requirements.txt
    ```
 3. Configura una variable de entorno `OPENAI_API_KEY` con tu clave API de OpenAI.
-4. Si tienes un ID de asistente personalizado de OpenAI, añádelo al archivo `secrets.toml` o introdúcelo en la interfaz de usuario.
-5. Ejecuta la aplicación con Streamlit:
+4. Ejecuta la aplicación con Streamlit:
    ```
    streamlit run app.py
    ```
 
 ## Uso
-Una vez en ejecución, ProcesAI CGP te permitirá realizar preguntas relacionadas con el Código General del Proceso y la Teoría General del Proceso. Las consultas serán procesadas por el asistente de IA y proporcionarán respuestas informadas y precisas.
+Una vez en ejecución, VigilantIA te permitirá realizar consultas relacionadas con la Vigilancia Judicial Administrativa, procesadas por el asistente de IA.
 
 ## Licencia
 [Incluir información sobre la licencia aquí, si aplica]
