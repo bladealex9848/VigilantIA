@@ -47,6 +47,12 @@ client = openai
 
 # Presentación del asistente VigilantIA
 st.title("¡Bienvenido a VigilantIA! ⚖️")
+
+st.write("""
+    [![ver código fuente](https://img.shields.io/badge/Repositorio%20GitHub-gris?logo=github)](https://github.com/bladealex9848/VigilantIA)
+    ![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fvigilantia.streamlit.app&label=Visitantes&labelColor=%235d5d5d&countColor=%231e7ebf&style=flat)
+    """)
+
 st.write("""
 ¡Hola! Soy VigilantIA, tu asistente especializado en Vigilancia Judicial Administrativa en Colombia. Estoy aquí para asistirte en comprender y aplicar las directrices del artículo 101 de la Ley 270 de 1996 y el ACUERDO No. PSAA11-8716.
 
