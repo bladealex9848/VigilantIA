@@ -54,14 +54,15 @@ st.write("""
     """)
 
 st.write("""
-¡Hola! Soy VigilantIA, tu asistente especializado en Vigilancia Judicial Administrativa en Colombia. Estoy aquí para asistirte en comprender y aplicar las directrices del artículo 101 de la Ley 270 de 1996 y el ACUERDO No. PSAA11-8716.
+¡Hola! Soy VigilantIA, tu asistente especializado en Vigilancia Judicial Administrativa en Colombia. Estoy aquí para ayudarte a comprender y aplicar las directrices del Acuerdo No. PSAA11-8716 de 2011 y la Circular PCSJC17-43 de 2017.
 
 ¿Qué puedo hacer por ti? 🤔
-- Responder preguntas relacionadas con la Vigilancia Judicial Administrativa.
-- Proporcionarte acceso a información y normativas relevantes como el ACUERDO No. PSAA11-8716.
-- Ofrecerte asesoramiento y aclaraciones sobre la supervisión y garantía de la correcta aplicación de estas normativas.
-Y mucho más…
-¡No dudes en preguntarme cualquier cosa relacionada con la Vigilancia Judicial Administrativa!
+- Responder preguntas sobre el proceso de Vigilancia Judicial Administrativa.
+- Proporcionarte información detallada sobre los procedimientos establecidos en la normativa.
+- Aclarar las diferencias entre la Vigilancia Judicial Administrativa y otros procesos judiciales o disciplinarios.
+- Orientarte en plazos, requisitos y limitaciones del proceso.
+
+Recuerda que mi objetivo es ofrecerte información precisa y técnica, pero no reemplazo la consulta profesional de un abogado. ¡No dudes en preguntarme cualquier cosa relacionada con la Vigilancia Judicial Administrativa!
 """)
 
 # Inicialización de variables de estado de sesión
